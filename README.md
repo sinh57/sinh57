@@ -1,12 +1,16 @@
 # 💫 About Me
 
+
 👋 Hey there! I'm **Abrar Khatri**
 🎓 **Computer Engineer**
 📍 Pune, India 🇮🇳
 
+
 I’m a **Full-Stack MERN Developer** and AI enthusiast passionate about building scalable web applications and intelligent solutions. My interests include **Artificial Intelligence, Machine Learning, and Deep Learning**, where I enjoy combining modern software development with innovative technologies to solve real-world problems.
 
 🚀 Focused on clean code, scalable systems, continuous learning, and impactful projects.
+
+
 
 
 ### 💻 Full-Stack Development
@@ -26,6 +30,8 @@ I’m a **Full-Stack MERN Developer** and AI enthusiast passionate about buildin
 * Understanding modern AI workflows and real-world AI integration
 
 ---
+
+
 
 # 🛠️ Tech Stack
 
@@ -47,6 +53,8 @@ Git • GitHub • Vercel • Netlify • Streamlit • Selenium • Apache Spar
 
 ---
 
+
+
 # 📚 Current Interests
 
 * Full-Stack Software Development
@@ -67,6 +75,8 @@ Git • GitHub • Vercel • Netlify • Streamlit • Selenium • Apache Spar
 🤝 Open to collaborations, internships, and exciting tech opportunities
 
 ---
+
+
 
 # 🌐 Connect With Me
 
