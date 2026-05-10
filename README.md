@@ -3,9 +3,9 @@
 
 👋 Hey there! I'm _**Abrar Khatri**_
 
-🎓 **Computer Engineering**   Student at   **Sinhgad Academy of Engineering, Kondhwa**
+🎓 **Computer Engineering** Student
 
-📍 Pune, India 🇮🇳
+📍 Pune, India 🇮🇳 | 🎓 **Sinhgad Academy of Engineering, Kondhwa**
 
 ---
 
