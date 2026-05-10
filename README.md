@@ -2,7 +2,11 @@
 
 
 👋 Hey there! I'm **Abrar Khatri**
+
+
 🎓 **Computer Engineer**
+
+
 📍 Pune, India 🇮🇳
 ---
 👋 Hey there!
