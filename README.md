@@ -80,5 +80,4 @@ Git • GitHub • Vercel • Netlify • Streamlit • Selenium • Apache Spar
 
 # 🌐 Connect With Me
 
-📫 LinkedIn: https://www.linkedin.com/in/abrar-khatri-a5a213245/
-🐙 GitHub: [https://github.com/Abrar_Khatri](https://github.com/sinh57)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/abrar-khatri-a5a213245/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:khatriabrar13@gmail.com) 
