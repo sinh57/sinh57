@@ -5,12 +5,6 @@
 🎓 **Computer Engineer**
 📍 Pune, India 🇮🇳
 ---
-# 👋 Hey There!
-
-👋 Hey there! I'm **Abrar Khatri**
-🎓 **Computer Engineer**
-📍 Pune, India 🇮🇳
-
 
 
 I’m a **Full-Stack MERN Developer** and AI enthusiast passionate about building scalable web applications and intelligent solutions. My interests include **Artificial Intelligence, Machine Learning, and Deep Learning**, where I enjoy combining modern software development with innovative technologies to solve real-world problems.
