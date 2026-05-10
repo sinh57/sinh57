@@ -33,26 +33,8 @@ I’m a **Full-Stack MERN Developer** and AI enthusiast passionate about buildin
 
 
 
-# 🛠️ Tech Stack
 
-### 💻 Programming Languages
 
-Python • JavaScript • TypeScript • Java • C++ • PHP • SQL
-
-### 🌐 Web Development
-
-React.js • Next.js • Node.js • Express.js • HTML5 • CSS3 • MongoDB • MySQL • PostgreSQL
-
-### 🤖 AI / ML
-
-TensorFlow • PyTorch • Scikit-learn • Pandas • NumPy • OpenCV • Matplotlib • Keras
-
-### ⚙️ Tools & Platforms
-
-Git • GitHub • Vercel • Netlify • Streamlit • Selenium • Apache Spark
-
----
----
 
 # 💻 Tech Stack
 
@@ -101,7 +83,7 @@ Git • GitHub • Vercel • Netlify • Streamlit • Selenium • Apache Spar
 
 
 
-
+---
 # 📚 Current Interests
 
 * Full-Stack Software Development
