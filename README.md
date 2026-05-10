@@ -9,6 +9,11 @@
 
 📍 Pune, India 🇮🇳
 
+👋 Hey there! I'm Abrar Khatri
+
+🎓 Computer Engineering Student at Sinhgad Academy of Engineering, Kondhwa
+
+📍 Pune, India 🇮🇳
 
 ---
 
