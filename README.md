@@ -1,17 +1,9 @@
 # 💫 About Me
 
 
-👋 Hey there! I'm **Abrar Khatri**
+👋 Hey there! I'm _**Abrar Khatri**_
 
-
-🎓 **Computer Engineer**
-
-
-📍 Pune, India 🇮🇳
-
-👋 Hey there! I'm Abrar Khatri
-
-🎓 Computer Engineering Student at Sinhgad Academy of Engineering, Kondhwa
+🎓 **Computer Engineering** Student at **Sinhgad Academy of Engineering, Kondhwa**
 
 📍 Pune, India 🇮🇳
 
